@@ -280,7 +280,7 @@ curl -X POST http://localhost:9377/tabs/TAB_ID/navigate \
 
 ## Search Macros
 
-`@google_search` · `@youtube_search` · `@amazon_search` · `@reddit_search` · `@reddit_subreddit` · `@wikipedia_search` · `@twitter_search` · `@yelp_search` · `@spotify_search` · `@netflix_search` · `@linkedin_search` · `@instagram_search` · `@tiktok_search` · `@twitch_search`
+`@google_search` · `@youtube_search` · `@amazon_search` · `@reddit_search` · `@reddit_subreddit` · `@wikipedia_search` · `@twitter_search` · `@yelp_search` · `@spotify_search` · `@netflix_search` · `@linkedin_search` · `@instagram_search` · `@tiktok_search` · `@twitch_search` · `@jobstreet_search` · `@tokopedia_search` · `@shopee_search` · `@bukalapak_search` · `@blibli_search` · `@lazada_search`
 
 Reddit macros return JSON directly (no HTML parsing needed):
 - `@reddit_search` - search all of Reddit, returns JSON with 25 results
